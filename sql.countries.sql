@@ -11,3 +11,14 @@ values
 (400,'india',3456),
 (190,'china',4532);
 SELECT*from miniworld.countries;
+
+
+
+--------------output------------
+
+/*300	italy	1098
+400	india	3456
+190	china	4532
+300	italy	1098
+400	india	3456
+190	china	4532*/
